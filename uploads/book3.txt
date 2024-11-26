@@ -1,0 +1,4 @@
+Title: Sample Book 3
+Author: Author 3
+
+This is the content of Book 3.

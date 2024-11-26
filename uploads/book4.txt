@@ -1,0 +1,4 @@
+Title: Sample Book 4
+Author: Author 4
+
+This is the content of Book 4.

@@ -1,0 +1,4 @@
+Title: Sample Book 2
+Author: Author 2
+
+This is the content of Book 2.

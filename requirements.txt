@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-decouple
+pymongo
+itsdangerous
+python-multipart
+
+
+
+
+
+# venv\Scripts\activate
