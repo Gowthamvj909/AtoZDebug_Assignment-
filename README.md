@@ -36,7 +36,7 @@ Users Table (Collection):
 	_id	     --  1
 	username --  "User_Admin"
 	password --  "User_Admin"
-	role	 --  "Admin"
+	role	 --  "Admin" or "Database Structure"
 
 
 Books Table (Collection):
