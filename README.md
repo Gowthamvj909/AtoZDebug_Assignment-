@@ -1,4 +1,4 @@
-# AtoZDebug_Assignment-
+# AtoZDebug_Assignment
 
 Setup Instructions:
 	Clone the Repository:
@@ -27,3 +27,22 @@ Setup Instructions:
 
 	Access the Application:
 		Open your browser at: http://localhost:8000
+
+Database Structure
+---------------------------------------------------------------------
+Users Table (Collection):
+
+	Field	     Value
+	_id	     --  1
+	username --  "User_Admin"
+	password --  "User_Admin"
+	role	 --  "Admin"
+
+
+Books Table (Collection):
+
+	Field	    	 Value
+	_id	       --    67458cd10936fda183b1eb4c
+	title	   --    "Sample Book 2"
+	author	   --    "Author 2"
+	file_path  --	 "uploads\book2.txt"
